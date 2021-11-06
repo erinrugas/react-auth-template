@@ -21,3 +21,19 @@ The page will reload if you make any changes on the code
 ### `npm build`
 
 This will build the app for production.
+
+
+## Screenshots
+
+
+#### Login Form w/ invalid email validation
+#### *NOTE: to show this email error message, change the input type from "email" to "text"*
+
+![login](https://i.imgur.com/0QKNX05.png)
+
+#### Register Form
+![register](https://i.imgur.com/H8ZJOPj.png)
+
+#### Forgot Password Form
+![forgot](https://i.imgur.com/moZyR37.png)
+
