@@ -12,6 +12,9 @@ go to react-auth-template directory.
 
 In the project directory, you can run:
 
+### `npm install`
+This will install all the dependencies of the app.
+
 ### `npm start`
 
 Open your browser and go to [http://localhost:3000](http://localhost:3000).
